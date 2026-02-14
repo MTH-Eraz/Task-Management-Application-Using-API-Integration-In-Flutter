@@ -21,7 +21,4 @@ A comprehensive Task Management application built with Flutter that interacts wi
 - `ui/screens`: All feature screens (Auth, Task lists, Profile).
 - `ui/widgets`: Reusable custom components (Task cards, App bars).
 
-## 📸 Screenshots
-| Splash & Auth | Dashboard | Profile Update |
-|---|---|---|
-| (Image link) | (Image link) | (Image link) |
+
